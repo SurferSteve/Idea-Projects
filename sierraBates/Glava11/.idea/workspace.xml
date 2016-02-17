@@ -1,7 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e63cf0c9-fa83-4b95-993c-585f069a6b56" name="Default" comment="" />
+    <list default="true" id="e63cf0c9-fa83-4b95-993c-585f069a6b56" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava12/out/production/Glava12/simpleGui1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava13/out/production/Glava13/BeatBox$MyDownTempoListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava13/out/production/Glava13/BeatBox$MyStartListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava13/out/production/Glava13/BeatBox$MyStopListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava13/out/production/Glava13/BeatBox$MyUpTempoListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava13/out/production/Glava13/BeatBox.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/Accum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBox$MyDownTempoListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBox$MyEmptyListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBox$MyReadInListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBox$MySendListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBox$MyStartListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBox$MyStopListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBox$MyUpTempoListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBox.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBoxFinal$MyDownTempoListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBoxFinal$MyEmptyListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBoxFinal$MyListSelectionListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBoxFinal$MyPlayMineListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBoxFinal$MyReadInListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBoxFinal$MySendListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBoxFinal$MyStartListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBoxFinal$MyStopListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBoxFinal$MyUpTempoListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBoxFinal$RemoteReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/BeatBoxFinal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/GameCharacter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/GameSaverTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/Glava14src/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/Glava14src/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/MyRunnable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/QuizCard.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/QuizCardBuilder$NewMenuListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/QuizCardBuilder$NextCardListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/QuizCardBuilder$SaveMenuListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/QuizCardBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/QuizCardPlayer$NextCardListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/QuizCardPlayer$OpenMenuListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/QuizCardPlayer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/SimpleChatClient$IncomingReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/SimpleChatClient$SendButtonListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/SimpleChatClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/SimpleChatClientA$SendButtonListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/SimpleChatClientA.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/TestThreads.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/ThreadOne.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/ThreadTester.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava14/out/production/Glava14/ThreadTwo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava16/out/production/Glava16/JukeBox5$ArtistCompare.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava16/out/production/Glava16/JukeBox5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava16/out/production/Glava16/JukeBox6$ArtistCompare.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava16/out/production/Glava16/JukeBox6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava16/out/production/Glava16/JukeBox8$ArtistCompare.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava16/out/production/Glava16/JukeBox8$ArtistCompare2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava16/out/production/Glava16/JukeBox8$TitleCompare.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava16/out/production/Glava16/JukeBox8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava16/out/production/Glava16/JukeBox9$ArtistCompare.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava16/out/production/Glava16/JukeBox9$TitleCompare.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava16/out/production/Glava16/JukeBox9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava16/out/production/Glava16/Mountain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava16/out/production/Glava16/Song.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava16/out/production/Glava16/Song2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava16/out/production/Glava16/SortMountain$HeightCompare.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava16/out/production/Glava16/SortMountain$NameCompare.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Glava16/out/production/Glava16/SortMountain.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Glava11/MiniMiniMusicApp.class" afterPath="$PROJECT_DIR$/out/production/Glava11/MiniMiniMusicApp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Glava11.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,8 +93,8 @@
       <file leaf-file-name="MiniMiniMusicApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MiniMiniMusicApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23247863">
-              <caret line="8" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.11643836">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -52,6 +120,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -88,7 +159,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -114,6 +185,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -148,7 +220,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -164,7 +235,7 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.MiniMusicCmdLine">
+  <component name="RunManager" selected="Application.MiniMiniMusicApp">
     <configuration default="false" name="MiniMiniMusicApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="MiniMiniMusicApp" />
@@ -366,8 +437,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.MiniMusicCmdLine" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MiniMiniMusicApp" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MiniMiniMusicApp" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MiniMusicCmdLine" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -390,32 +461,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32626426" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981076" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981076" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="ASM" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32626426" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -438,6 +509,24 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/MiniMiniMusicApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MiniMusicCmdLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MiniMiniMusicApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -502,8 +591,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MiniMiniMusicApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23247863">
-          <caret line="8" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.11643836">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

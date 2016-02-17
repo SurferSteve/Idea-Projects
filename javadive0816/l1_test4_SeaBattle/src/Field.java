@@ -2,8 +2,8 @@
  * Created by Steve on 23.08.2015.
  */
 public class Field {
-    public static final int SIZE = 10; // final - константа
-    char[] cells = new char[SIZE]; // из локальной мы перенесли в поля класса
+    public static final int SIZE = 10; // final - пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+    char[] cells = new char[SIZE]; // пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
     Ship ship;
 
     void init() {
@@ -22,5 +22,7 @@ public class Field {
         System.out.println();
     }
 
-    void doShoot
+    void doShoot () {
+
+    }
 }

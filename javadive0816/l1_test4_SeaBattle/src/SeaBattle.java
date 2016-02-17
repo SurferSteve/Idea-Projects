@@ -7,24 +7,17 @@ public class SeaBattle {
     public static void main(String[] args) {
         // ....X......
 
-//        for (char cell : cells) {
-//            cell = '.'; // поправили копию
-//        }
+        char[] cells = new char[10];
+        for (char cell : cells) {
+            cell = '.'; // поправили копию
+        }
 
+        int shipPosition = 4;
+        cells[shipPosition] = 'X';
 
-
-
-
-
-
-        do {
-
-
-
-//            Test1 t = new Test1();
-//            Test1.goPark();
-            Scanner scanner = new Scanner(System.in);
-            int shoot = getShoot(scanner);
+            do {
+                Scanner scanner = new Scanner(System.in);
+            int shoot = scanner.nextInt();
 
             switch (cells[shoot]) {
                 case '.':

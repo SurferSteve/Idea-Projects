@@ -7,15 +7,13 @@ public class SeaBattle2 {
     public static void main(String[] args) {
         // ....X......
         char[] cells = new char[10];
-//        for (char cell : cells) {
-//            cell = '.';
-//        }
-
         for (int i = 0; i < cells.length; i++) {
             cells[i] = '.';
         }
         int shipPosition = 4;
         cells[shipPosition] = 'X';
+
+        int shots = 0;
 
         do {
             System.out.println(cells);
@@ -24,24 +22,22 @@ public class SeaBattle2 {
 
             Scanner scanner = new Scanner(System.in);
             int shoot;
+            String input;
             do {
-                if (scanner.hasNextInt()) {
-                    if (scanner.nextInt() >= 10 || scanner.nextInt() < 0) {
-                        System.out.println("Вводите число от 0 до 9!");
-                        scanner.nextLine();
+                if (scanner.hasNextInt() & scanner.nextInt() > 0 & scanner.nextInt() < 10) {
+//                    if (scanner.nextInt() > 10 || scanner.nextInt() < 0) {
+//                        System.out.println("Введите число от 0 до 9!");
+//                        scanner.nextLine();
+                    shoot = scanner.nextInt();
+                    break;
                     } else {
-                        if (Character.isLetter(scanner.nextInt())) {
-                            System.out.println("Введите всё же число!");
-                            scanner.nextLine();
-                        } else {
-                            shoot = scanner.nextInt();
-                            break;
+                        System.out.println("Введите число от 0 до 9!");
+                        scanner.nextLine();
                         }
-                    }
-                }
             }
-                while (true) ;
+                while (true);
                 System.out.println("X: " + shoot);
+                shots++;
 
                 switch (cells[shoot]) {
                     case '.':
@@ -60,6 +56,7 @@ public class SeaBattle2 {
                         System.out.println("ERROR");
                 }
             } while (cells[shipPosition] == 'X');
-        System.out.println("game over");
+        System.out.println("Игра Окончена");
+        System.out.println("Всего выполнено выстрелов: " + shots);
     }
 }

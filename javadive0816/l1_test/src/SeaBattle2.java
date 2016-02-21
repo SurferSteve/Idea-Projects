@@ -24,16 +24,23 @@ public class SeaBattle2 {
             int shoot;
             String input;
             do {
-                if (scanner.hasNextInt() & scanner.nextInt() > 0 & scanner.nextInt() < 10) {
-//                    if (scanner.nextInt() > 10 || scanner.nextInt() < 0) {
-//                        System.out.println("Введите число от 0 до 9!");
-//                        scanner.nextLine();
-                    shoot = scanner.nextInt();
-                    break;
+                if (scanner.hasNextInt()) {
+                    if  (scanner.nextInt() > 0) {
+                        if (scanner.nextInt() < 10) {
+                            shoot = scanner.nextInt();
+                            break;
+                        } else {
+                            System.out.println("Введите число от 0 до 9!");
+                            scanner.nextLine();
+                        }
                     } else {
                         System.out.println("Введите число от 0 до 9!");
                         scanner.nextLine();
-                        }
+                    }
+                } else {
+                    System.out.println("Введите число от 0 до 9!");
+                    scanner.nextLine();
+                    }
             }
                 while (true);
                 System.out.println("X: " + shoot);

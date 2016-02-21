@@ -22,47 +22,43 @@ public class SeaBattle2 {
 
             Scanner scanner = new Scanner(System.in);
             int shoot;
-            String input;
             do {
                 if (scanner.hasNextInt()) {
-                    if  (scanner.nextInt() > 0) {
-                        if (scanner.nextInt() < 10) {
+                    shoot = scanner.nextInt();
+                    break;
+                } else {
+                    if (!scanner.hasNextInt()) {
+                        System.out.println("Вводить буквы запрещено. Введите число от 0 до 9!");
+                        scanner.nextLine();
+                    } else {
+                        if (scanner.nextInt() > 0) {
                             shoot = scanner.nextInt();
                             break;
-                        } else {
-                            System.out.println("Введите число от 0 до 9!");
-                            scanner.nextLine();
                         }
-                    } else {
-                        System.out.println("Введите число от 0 до 9!");
-                        scanner.nextLine();
                     }
-                } else {
-                    System.out.println("Введите число от 0 до 9!");
-                    scanner.nextLine();
-                    }
-            }
-                while (true);
-                System.out.println("X: " + shoot);
-                shots++;
-
-                switch (cells[shoot]) {
-                    case '.':
-                        System.out.println("Промах!");
-                        cells[shoot] = '*';
-                        break;
-                    case '*':
-                        System.out.println("Уже стреляли!");
-                        break;
-                    case 'X':
-                        System.out.println("Корабль Потоплен!");
-                        cells[shoot] = '^';
-                        System.out.println(cells);
-                        break;
-                    default:
-                        System.out.println("ERROR");
                 }
-            } while (cells[shipPosition] == 'X');
+            }
+            while (true);
+            System.out.println("Выстрел: " + shoot);
+            shots++;
+
+            switch (cells[shoot]) {
+                case '.':
+                    System.out.println("Промах!");
+                    cells[shoot] = '*';
+                    break;
+                case '*':
+                    System.out.println("Уже стреляли!");
+                    break;
+                case 'X':
+                    System.out.println("Корабль Потоплен!");
+                    cells[shoot] = '^';
+                    System.out.println(cells);
+                    break;
+                default:
+                    System.out.println("ERROR");
+            }
+        } while (cells[shipPosition] == 'X');
         System.out.println("Игра Окончена");
         System.out.println("Всего выполнено выстрелов: " + shots);
     }

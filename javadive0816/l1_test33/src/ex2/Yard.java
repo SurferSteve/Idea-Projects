@@ -42,6 +42,10 @@ public class Yard {
             if (horse.rank == 1) {
                 winner.name = horse.name;
 //                System.out.println("Лошадь № " + winner.name);
+            } else {
+                if (horse.rank == 2) {
+                    winner.name = horse.name;
+                }
             }
         }
         System.out.println("***********");

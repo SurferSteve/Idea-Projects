@@ -4,4 +4,5 @@
 public class Ship {
     static int position;
     static int decksCount;
+    static int hp;
 }

@@ -16,14 +16,15 @@ public class Player {
             if (scanner.hasNextInt()) {
                 do {
                     Ship.decksCount = scanner.nextInt();
-                } while (Ship.decksCount > Field.SIZE || Ship.decksCount <= 0);
+                    Ship.hp = Ship.decksCount;
+                } while (Ship.hp > Field.SIZE || Ship.hp <= 0);
                 break;
             } else {
                 System.out.println("Вводить буквы или нецелые числа запрещено. Введите число от 1 до " + Field.SIZE + "!");
                 scanner.nextLine();
             }
         } while (true);
-        return Ship.decksCount;
+        return Ship.hp;
     }
 
     int getShoot() {

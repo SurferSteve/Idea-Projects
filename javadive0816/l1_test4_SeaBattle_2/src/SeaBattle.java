@@ -20,5 +20,6 @@ public class SeaBattle {
 
         System.out.println("Корабль Потоплен! Игра Окончена!");
         System.out.println("Всего выстрелов: " + Player.shots);
+        System.out.println("Всего уничтоженно палуб: " + Ship.decksCount);
     }
 }

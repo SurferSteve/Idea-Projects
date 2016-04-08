@@ -46,12 +46,12 @@ public class Field {
                 System.out.println("Уже стреляли!");
                 break;
             case 'X':
-                if (Ship.decksCount > 1) {
+                if (Ship.hp > 1) {
                     System.out.println("Ранил!");
-                    Ship.decksCount--;
+                    Ship.hp--;
                 } else {
                     System.out.println("Потопил!");
-                    Ship.decksCount--;
+                    Ship.hp--;
                 }
                 cells[shoot] = '^';
                 break;
@@ -61,7 +61,7 @@ public class Field {
     }
 
     boolean isNotGameOver() {
-        return Ship.decksCount > 0;
+        return Ship.hp > 0;
 //        return cells[ship1Position] == 'X' || cells[ship2Position] == 'X' || cells[ship3Position] == 'X';
     }
 }

@@ -14,7 +14,12 @@ public class Yard {
         Scanner scanner = new Scanner(System.in);
         int stavka = scanner.nextInt();
         System.out.println("Ваша ставка на лошадь Буцефал № " + stavka);
-        System.out.println("***********");
+        System.out.print("**************");
+        System.out.print("**************");
+        System.out.print("**************");
+        System.out.print("**************");
+        System.out.print("**************");
+        System.out.println("");
 
         Random random = new Random();
 
@@ -43,16 +48,22 @@ public class Yard {
                 winner.name = horse.name;
 //                System.out.println("Лошадь № " + winner.name);
             } else {
-                if (horse.rank == 2) {
+                if (horse.rank != 1 && horse.rank == 2) {
                     winner.name = horse.name;
                 }
             }
         }
-        System.out.println("***********");
+        System.out.print("**************");
+        System.out.print("**************");
+        System.out.print("**************");
+        System.out.print("**************");
+        System.out.print("**************");
+        System.out.println("");
+
         if (horses[stavka].rank == 1) {
-            System.out.println("Ваша ставка выйграла! Лошадь " + winner.name + " пришла Первой!");
+            System.out.println("Ваша ставка "+ stavka + " выйграла! Лошадь " + winner.name + " пришла Первой!");
         } else {
-            System.out.println("Ваша ставка проиграла! Лошадь " + winner.name + " пришла Первой!");
+            System.out.println("Ваша ставка "+ stavka + " проиграла! Лошадь " + winner.name + " пришла Первой!");
         }
     }
 }

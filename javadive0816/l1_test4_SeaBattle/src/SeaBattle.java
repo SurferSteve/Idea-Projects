@@ -5,8 +5,6 @@ import java.util.Scanner;
  */
 public class SeaBattle {
     public static void main(String[] args) {
-        // ....X......
-
         char[] cells = new char[10];
         for (char cell : cells) {
             cell = '.'; // поправили копию
@@ -15,8 +13,8 @@ public class SeaBattle {
         int shipPosition = 4;
         cells[shipPosition] = 'X';
 
-            do {
-                Scanner scanner = new Scanner(System.in);
+        do {
+            Scanner scanner = new Scanner(System.in);
             int shoot = scanner.nextInt();
 
             switch (cells[shoot]) {

@@ -11,7 +11,7 @@ public class User implements Shootable {
     public Point getShoot() {
 //        return Point.getRandomPoint();
         isShoot = false;
-        while(!isShoot); // неидеальный вариант - вечный поток - нужно усыпление - thread.sleep()
+        while(!isShoot && !MainGame.isEnd); // неидеальный вариант - вечный поток - нужно усыпление - thread.sleep()
         return point;
     }
 }

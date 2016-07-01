@@ -2,50 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe2656f9-21f9-480e-8c03-b5c48362b386" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaRushPlugin.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tests/ConstructorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tests/Date.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tests/MassiveTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tests/test850.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson3/src/lesson3/FieldNew.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson3/src/lesson3/SeaBattleFieldNew.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson3/src/lesson3/TestXOGameField.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson4/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson4/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson4/src/ex1/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson4/src/ex1/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson4/src/ex2/Animal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson4/src/ex2/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson4/src/ex2/MyWindow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson5/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson5/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson5/src/ex2/Animal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson5/src/ex2/Bat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson5/src/ex2/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson5/src/ex2/Flyable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson5/src/ex2/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson5/src/ex2/Main3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson5/src/ex2/Main4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson5/src/ex2/Main5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson5/src/space0/Flyable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson5/src/space0/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson5/src/space0/MissionControlCenter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson5/src/space0/Pilot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson5/src/space0/Rocket.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson5/src/space0/SpacePort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson5/src/space0/SpaceShip.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson5/src/space0/Step.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../lesson3/out/production/lesson3/lesson3/Field.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../lesson3/out/production/lesson3/lesson3/Player.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../lesson3/out/production/lesson3/lesson3/SeaBattle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../lesson3/out/production/lesson3/lesson3/Ship.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../lesson3/out/production/lesson3/lesson3/TestField.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../lesson3/src/lesson3/Field.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../lesson3/src/lesson3/SeaBattle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../lesson3/src/lesson3/TestField.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../lesson3/src/lesson3/Player.java" afterPath="$PROJECT_DIR$/../lesson3/src/lesson3/PlayerNew.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../lesson3/src/lesson3/Ship.java" afterPath="$PROJECT_DIR$/../lesson3/src/lesson3/ShipNew.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson7/src/ex0/Main2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson7/src/ex0/Main3AutoClosable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson7/src/ex0/Main4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson7/src/ex0/OurException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson7/src/ex0/Test2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson8/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson8/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson8/src/ex1/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson8/src/ex1/Main2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson8/src/ex2/Main3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson8/src/ex3/ATM.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson8/src/ex3/ATM3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson8/src/ex3/Key.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson8/src/ex4/Main4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson8/src/ex5/HttpServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson8/src/ex5/HttpServer2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson8/src/ex5/Main5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson8/src/ex5/SocketDispatcher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lesson6/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../lesson6/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lesson6/src/lesson5MVC/Controller/GameController.java" afterPath="$PROJECT_DIR$/../lesson6/src/lesson5MVC/Controller/GameController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lesson6/src/lesson5MVC/Model/Computer.java" afterPath="$PROJECT_DIR$/../lesson6/src/lesson5MVC/Model/Computer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lesson6/src/lesson5MVC/Model/Field.java" afterPath="$PROJECT_DIR$/../lesson6/src/lesson5MVC/Model/Field.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lesson6/src/lesson5MVC/Model/MainGame.java" afterPath="$PROJECT_DIR$/../lesson6/src/lesson5MVC/Model/MainGame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lesson6/src/lesson5MVC/Model/User.java" afterPath="$PROJECT_DIR$/../lesson6/src/lesson5MVC/Model/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lesson6/src/lesson5MVC/View/GameWindow.java" afterPath="$PROJECT_DIR$/../lesson6/src/lesson5MVC/View/GameWindow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lesson7/.idea/misc.xml" afterPath="$PROJECT_DIR$/../lesson7/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lesson7/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../lesson7/.idea/workspace.xml" />
     </list>
     <ignored path="JavaRushHomeWork1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -135,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/tests/Test850.java" />
         <option value="$PROJECT_DIR$/src/tests/ConstructorTest.java" />
         <option value="$PROJECT_DIR$/src/tests/MassiveTest.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson04/task02/Solution.java" />
       </list>
     </option>
   </component>
@@ -172,9 +157,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -209,6 +191,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -594,8 +579,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -646,6 +631,22 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson04/task02/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson04/task02/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson04/task02/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">

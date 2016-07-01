@@ -1,15 +1,19 @@
 package lesson5MVC.Model;
 
+import lesson5MVC.View.GameWindow;
+
 /**
  * Created by Steve on 10.05.2016.
  */
 public class Field {
 
-    public static final int MAX_CELLS_X = 3;
-    public static final int MAX_CELLS_Y = 3;
-
     public enum Type {X, O, NOT_SET}
 //    enum int {0, 1, 2, 3, 4} // метафора
+
+    public static final int MAX_CELLS_X = 3;
+    public static final int MAX_CELLS_Y = 3;
+    public static String text;
+//    public static Type{}
 
     Type[][] cells;
 
@@ -50,6 +54,8 @@ public class Field {
         //todo проверка
         if (cells[point.getX()][point.getY()] == Type.NOT_SET) {
             cells[point.getX()][point.getY()] = type;
+            text = "" + type;
+            GameWindow.buttons[point.getX()][point.getY()].setText("" + type);
         }
     }
 

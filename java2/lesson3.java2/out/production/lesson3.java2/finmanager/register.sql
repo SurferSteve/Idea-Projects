@@ -1,0 +1,1 @@
+insert OR REPLACE into users (name, password) values (?, ?);

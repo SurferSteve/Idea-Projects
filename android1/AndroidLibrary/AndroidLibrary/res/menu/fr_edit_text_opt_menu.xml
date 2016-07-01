@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- Menu "Copy" -->
+    <item 
+        android:id="@+id/fr_edit_text_m_copy"
+        android:title="@string/fr_edit_text_m_copy"
+        android:showAsAction="never" android:orderInCategory="51"/>
+    
+    <!-- Menu "Paste" -->
+    <item
+        android:id="@+id/fr_edit_text_m_paste"
+        android:title="@string/fr_edit_text_m_paste"
+        android:showAsAction="never" android:orderInCategory="52"/>
+    
+    <!-- Menu "Clear" -->
+    <item
+        android:id="@+id/fr_edit_text_m_clear"
+        android:title="@string/fr_edit_text_m_clear"
+        android:showAsAction="never" android:orderInCategory="53"/>
+
+</menu>

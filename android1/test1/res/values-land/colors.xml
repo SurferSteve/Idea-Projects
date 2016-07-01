@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Text attributes -->    
+    <color name="simple_text_1_color">#FF22FF22</color>
+    <color name="simple_text_2_color">#FF44FF44</color>
+    <color name="simple_text_3_color">#FF66FF66</color>
+    <color name="simple_text_4_color">#FF88FF88</color>
+    <color name="simple_text_5_color">#FFAAFFAA</color>
+
+</resources>

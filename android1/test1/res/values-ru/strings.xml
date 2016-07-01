@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        
+    <!-- Simple text -->
+    <string name="simple_text_0">Простой текст 0</string>
+    <string name="simple_text_1">Простой текст 1</string>
+    <string name="simple_text_2">Простой текст 2</string>
+    <string name="simple_text_3">Простой текст 3</string>
+    <string name="simple_text_4">Простой текст 4</string>
+    <string name="simple_text_5">Простой текст 5</string>
+    
+    <!-- Array of items -->
+    <string-array name="my_str_array">
+        <item>Элемент 00</item>
+        <item>Элемент 01</item>
+        <item>Элемент 02</item>
+        <item>Элемент 03</item>
+        <item>Элемент 04</item>        
+    </string-array>
+    
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Name of this application -->
+    <string name="app_name">A1_L02_01</string>
+    <string name="test">@string/simple_text_0</string>
+    
+	<!-- Background color for all Activities -->
+    <color name="bg_color">#55CCCCCC</color>    
+        
+    <!-- Simple text -->
+    <string name="simple_text_0">Simple text 0</string>
+    <string name="simple_text_1">Simple text 1</string>
+    <string name="simple_text_2">Simple text 2</string>
+    <string name="simple_text_3">Simple text 3</string>
+    <string name="simple_text_4">Simple text 4</string>
+    <string name="simple_text_5">Simple text 5</string>
+    
+    <!-- Text attributes -->    
+    <color name="simple_text_0_color">#FFFF0000</color>
+    <dimen name="simple_text_0_size">8pt</dimen>
+    
+    <!-- Array of items -->
+    <string-array name="my_str_array">
+        <item>Item 00</item>
+        <item>Item 01</item>
+        <item>Item 02</item>
+        <item>Item 03</item>
+        <item>Item 04</item>        
+    </string-array>
+    
+</resources>
